@@ -32,6 +32,7 @@ public class combustivel {
             }
 
         }
+        System.out.println("Muito obrigado");
         System.out.println("contador de gasolina: " + contgas);
         System.out.println("contador de etanol: " + contetanol);
         System.out.println("contador de diesel: " + contdiesel);
